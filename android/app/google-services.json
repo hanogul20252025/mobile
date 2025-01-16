@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49785250870",
+    "project_id": "cayhana-200a2",
+    "storage_bucket": "cayhana-200a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49785250870:android:a3bdc226f580b218d5e497",
+        "android_client_info": {
+          "package_name": "com.iyermen.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TVNqX2-Nfc_pnooR5V0FsWl58MDwxus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
